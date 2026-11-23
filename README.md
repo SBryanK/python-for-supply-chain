@@ -12,8 +12,8 @@ Open `course_home/setup_guide.pdf` and set up your laptop once. It takes about 3
 |---|---|
 | `course_home/` | Course outline, setup guide, glossary, templates and guides |
 | `data/` | The lesson data file and its description |
-| `work/` | Your own files from Session 4 on. They stay on your laptop |
-| `week_1_...` to `week_4_...` | One folder per session: notebook, slides (PDF), handout, recall questions |
+| `work/` | Your own files from Session 3 on. They stay on your laptop |
+| `week_1_...` to `week_3_...` | One folder per session: notebook, slides (PDF), handout, recall questions |
 
 ## Get the new files each week
 
